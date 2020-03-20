@@ -33,15 +33,17 @@ body {
 }
 
 .description-item {
+    margin-right: 38px;
     .icon {
         margin-bottom: 20px;
+        text-align: center;
     }
     .title {
         margin-bottom: 14px;
         font-size: 18px;
         line-height: 22px;
         font-weight: bold;
-        margin-top: 30px;
+        text-align: center;
     }
     .text {
         font-size: 16px;
@@ -49,6 +51,7 @@ body {
         font-weight: 300;
         color: #6c6c6c;
         margin-top: 14px;
+        text-align: center;
     }
     
 

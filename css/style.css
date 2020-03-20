@@ -314,22 +314,24 @@ body {
   width: 1180px;
   margin: 0 auto; }
 
-.description-item .icon {
-  margin-bottom: 20px; }
-
-.description-item .title {
-  margin-bottom: 14px;
-  font-size: 18px;
-  line-height: 22px;
-  font-weight: bold;
-  margin-top: 30px; }
-
-.description-item .text {
-  font-size: 16px;
-  line-height: 27px;
-  font-weight: 300;
-  color: #6c6c6c;
-  margin-top: 14px; }
+.description-item {
+  margin-right: 38px; }
+  .description-item .icon {
+    margin-bottom: 20px;
+    text-align: center; }
+  .description-item .title {
+    margin-bottom: 14px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    text-align: center; }
+  .description-item .text {
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 300;
+    color: #6c6c6c;
+    margin-top: 14px;
+    text-align: center; }
 
 .section-header {
   color: #ffffff;
